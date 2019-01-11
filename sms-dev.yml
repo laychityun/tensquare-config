@@ -1,0 +1,12 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tensquare-sms
+  rabbitmq:
+    host: 192.168.43.101
+
+miaodi:
+  account_sid: 9da70f2fe072458a9c2c621060a6e062
+  auth_token: 371e5dc36cf544caa6d285e2b4edaa0f
+  url: https://api.miaodiyun.com/20150822/industrySMS/sendSMS
