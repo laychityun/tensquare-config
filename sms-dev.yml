@@ -4,7 +4,7 @@ spring:
   application:
     name: tensquare-sms
   rabbitmq:
-    host: 192.168.43.101
+    host: 192.168.21.128
 
 miaodi:
   account_sid: 9da70f2fe072458a9c2c621060a6e062
