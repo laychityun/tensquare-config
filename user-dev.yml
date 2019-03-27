@@ -19,7 +19,7 @@ spring:
 jwt:
   config:
     key: tensquare
-    ttl: 3600000
+    ttl: 36000000
 
 eureka:
   client:
